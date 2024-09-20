@@ -5,3 +5,6 @@ In industrial production, obtaining the discrete status of equipment from massiv
 
 ## References
 [1] Changchun He, and Xin Huo. "Tracking Differentiator-based Multiview Dilated Characteristics for Time Series Classification." in The 22nd IEEE International Conference on Industrial Informatics (INDIN2024) (2024).
+
+## Notice
+The PDF file of the paper is only temporary and will be removed once the paper is officially published. For reading only, please do not spread it again.
